@@ -1,6 +1,5 @@
 # Javascript-Quiz-Game
 Basic JavaScript Quiz Game using prompt(), alert(), arrays, loops and score tracking
-# JavaScript Quiz Game
 
 ### 🎯 Objective
 Create a basic JavaScript quiz game that runs in the browser console using `prompt()` and `alert()`, looping through questions, checking answers, and displaying the final score.
